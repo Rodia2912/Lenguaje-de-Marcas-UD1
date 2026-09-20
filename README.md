@@ -42,8 +42,3 @@ sudo apt install git
 **Markdown All in One**|![Markdown All in One](img/MD.png)|*Facilita la creación y edición de Markdown.*
 **XML - Red Hall**|![XML - Red Hall](img/XML.png)|*Herramientas para editar y validar XML.*
 **Live Server**|![Live Server](img/LiveServer.png)|*Ejecuta la web y actualiza los cambios automáticamente.*
-
-
-
-# Lenguaje-de-Marcas-UD1
-# Lenguaje-de-Marcas-UD1
