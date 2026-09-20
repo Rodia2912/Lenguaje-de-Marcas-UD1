@@ -37,7 +37,7 @@ sudo apt install git
 
 |***Plugins***|***Imagen***|***Uso***|
 |-------|------|---|
-**HTML CSS Suport**|![HTML CSS Suport](img/HTML.png)|*Autocompleta HTML y CSS.*
+**HTML CSS Suport**|![HTML CSS Suport]([img/HTML.png](https://ecmel.gallerycdn.vsassets.io/extensions/ecmel/vscode-html-css/2.0.14/1770897391434/Microsoft.VisualStudio.Services.Icons.Default))|*Autocompleta HTML y CSS.*
 **Live Preview**|![Live Preview](img/LivePreview.png)|*Visualizar presentación de HTML.*
 **Markdown All in One**|![Markdown All in One](img/MD.png)|*Facilita la creación y edición de Markdown.*
 **XML - Red Hall**|![XML - Red Hall](img/XML.png)|*Herramientas para editar y validar XML.*
