@@ -33,7 +33,7 @@ sudo apt install git
 
 ``` 
 
-## Pligins instalados
+## Plugins instalados
 
 |***Plugins***|***Imagen***|***Uso***|
 |-------|------|---|
