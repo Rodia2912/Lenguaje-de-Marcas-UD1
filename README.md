@@ -30,7 +30,9 @@ sudo apt install git
 ``` 
 1.  Crear repositiorio añadir codigo y hacer commit.
 ```bash
-
+git add .
+git commit -m "Descripción de los cambios"
+git push origin main "Enviar al repositorio remoto"
 ``` 
 
 ## Plugins instalados
